@@ -1,3 +1,6 @@
+# Live version here! - [LIVE](https://voxx1.github.io/social-proof/)
+
+
 # Frontend Mentor - Social proof section
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
